@@ -4,7 +4,7 @@
 var http=require('http');
 var url=require('url');
 var express=require('express');
-var bodyParser=require('body-Parser');
+var bodyParser=require('body-parser');
 var multer=require('multer');
 var app=express();
 var path=require('path');
